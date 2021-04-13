@@ -9,5 +9,5 @@ public class Constants {
 
     public static final String BASE_URL = "https://gank.io/api/";
 
-    public static final String GIRL_URL = "v2/data/category/Girl/type/Girl/page/3/count/30";
+    public static final String GIRL_URL = "v2/data/category/Girl/type/Girl/page/3/count/40";
 }
